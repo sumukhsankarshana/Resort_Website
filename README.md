@@ -87,7 +87,7 @@ This project was developed solely for college project and educational purposes, 
 
 
 ##  Note
-All the images have been removed from this Git Hub repository since they are actual pictures of the real resort and is property of Advaitha Serenity Resorts.
+Few of the images have been removed from this Git Hub repository since they are actual pictures of the real resort and is property of Advaitha Serenity Resorts.
 
 
 
