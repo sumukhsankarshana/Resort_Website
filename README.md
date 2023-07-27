@@ -1,6 +1,7 @@
 # Advaitha Serenity Resorts Website
 
-![Advaitha-Serenity-Resorts](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/cc4c68d0-0293-48a6-978b-1bc81a39aa27)
+![Advaitha-Serenity-Resorts](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/30c913e5-cb5c-45f7-8bc0-0aa16ed34a93)
+
 https://advaithaserenityresorts.com/
 
 ## Introduction
@@ -40,50 +41,59 @@ This project was developed solely for college project and educational purposes, 
 
 ## Outputs
 ### Home page
-![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/dd6a0b1e-0270-4bfd-9c58-64564319b704)
+![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/6234e331-252d-4e14-9b95-9e3ebb574586)
 
 ### Rooms Home page
-![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/006c1560-186c-4b80-86f6-b8a28d40b9e8)
+![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/d3baa606-c1d3-47c4-b448-76ee990824de)
+
 
 ### Suites Rooms page
-![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/0902eb2f-e9b4-4805-afda-b97b6becbf3e)
+![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/be200817-fdee-453a-ba7d-9f35715d5899)
+
 
 ### Executive Rooms page
-![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/77725631-2cd3-4f29-8557-74ca27b613e4)
+![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/267eb791-4e30-40aa-b73a-2bf4fc42bd5c)
+
 
 ### Cottage Rooms page
-![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/f47c1c44-a4c4-4654-84d4-c76db02c6693)
+![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/473f6584-f106-448e-a3ae-4066fd0169ce)
+
 
 ### Booking Page
-![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/a6d62470-473b-40bd-a29e-460964de79ae)
+![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/1a3a0ff2-cbe6-440c-872f-49aa4c5e0d86)
 
 ### Events/Services Homepage and other event pages
-![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/466f37c8-0cdc-4d88-a23d-475e4532fa66)
+![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/1e726369-ad20-45af-ba80-d02098dae74a)
 
-![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/919c7ccd-a7f6-4f1c-aa14-0883f7de9471)
+![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/c698930b-eaf8-468a-9c39-67af4c68cc98)
 
-![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/604bc1e0-a9b4-4c9d-a536-b3b6e53eeb44)
+![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/20128009-95c6-44bd-bc71-30339ac54f7d)
 
-![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/2e7d7577-e0dd-42f4-9919-f05157c3e5b1)
+![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/76d937b8-0aee-43af-a83d-f6b21e9fff3c)
 
 ### Event Booking page 
-![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/3943615d-195d-4745-97ef-5d4763218e13)
+![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/23661e3f-3348-4fa4-a9c6-d9b69374b17f)
+
 
 ### Food Homepage
-![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/10d44845-2463-4e4b-a488-999019862d88)
+![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/6d4dd0ab-cd26-4869-8926-1b6a47ce7eef)
+
 
 ### Menu Page
-![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/5b235947-fed5-4df8-8f85-88306707f605)
+![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/14b969e9-32e2-45e7-94b5-7010d856dc86)
 
-![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/076f400b-ce09-47b3-acf1-d8d590162511)
+![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/9fc98110-c846-4659-b52f-8823b48a8b9c)
 
-![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/94412249-a84e-4924-8cc2-5bfa0efbb611)
+![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/f5e38f48-db93-4132-b812-6fd65d256fea)
+
 
 ### About Page
-![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/9fb11023-acca-4039-b490-37d071826e27)
+![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/49209f27-f836-4f2f-828e-ba91f201d7cc)
+
 
 ### Contact US page
-![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/6b4edb18-d1b3-45aa-b83b-3760462f0757)
+![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/34b782e1-6f24-4921-8099-a536666ff7a5)
+
 
 
 ##  Note
