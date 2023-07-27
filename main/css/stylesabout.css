@@ -1,0 +1,231 @@
+.abouthead{
+  top: 40px;
+    background-image: url("../images/ami.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    position: relative;
+
+}
+.abouthead h3{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 90px;
+}
+.abouthead h1{
+    color: #fff;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+.abouthead h1::after{
+    content: "";
+    width: 100px;
+    height: 5px;
+    background-color: #fff;
+    display: block;
+    margin: 10px auto;
+}
+  .about1,.about2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+  }  
+  .headab1,.headab2{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    margin: 20px auto;
+  }
+  .headab1 h2{
+    color: #fddc03;
+  }
+  .headab1 h1,.headab2 h1{
+    font-size: 50px;
+    color: lightgreen;
+    margin-bottom: 25px;
+    position: relative;
+  }
+  .headab1 h1::before,.headab2 h1::before{
+    content: "";
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background: lightgreen;
+  }
+  .about-container{
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px 20px;
+  }
+  .ab1,.ab2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .about1-image,.about2-image{
+    flex:1;
+    margin-right: 40px;
+    overflow: hidden;
+  }
+  .about1-image img,.about2-image img{
+    max-width: 100%;
+    border: #fddc03;
+    border-style: dashed;
+    border-width: 5px;
+    display: block;
+    transition: 0.5s ease;
+  }
+  .about1-image:hover img,.about2-image:hover img{
+    transform: scale(1.2);
+  }
+  .about1-content,.about2-content{
+    flex:1;
+    margin-left: 40px;
+  }
+  .about1-content p,.about2-content p{
+    font-size: 18px;
+    line-height: 2;
+    margin-bottom: 20px;
+    color: #000000;
+  }
+  .contentpara
+  {
+    font-size: 18px;
+    line-height: 2;
+    margin-bottom: 20px;
+    color: #000000;
+    
+  }
+
+.videoplay
+{
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+.videocontext h1{
+    font-size: 40px;
+    color: lightgreen;
+    margin-bottom: 25px;
+    position: relative;
+    text-align: center;
+    padding-top: 20px;
+  
+}
+.videocontext h1::after{
+    content: "";
+    width: 400px;
+    height: 5px;
+    background-color: #03fe20;
+    display: block;
+    margin: 10px auto;
+}
+.videocontext h3{
+    font-size: 20px;
+    color: goldenrod;
+    margin-bottom: 10px;
+    position: relative;
+    text-align: center;
+    padding-top: 20px;
+}
+video {
+    width: 100%;
+    height: auto;
+}
+.ab2-container{
+    display: flex;
+    
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.cnt{
+    
+    width: 500px; 
+    border-style: double;
+    border-width: 10px;
+    line-height: 2;
+    margin: 40px;
+    border-radius: 15px;    
+}
+.cnt:hover{
+    transform: scale(1.1);
+    transition: all 1s ease;
+}
+.cnt h1{
+    padding: 10px;
+    text-align: center;
+    color: #03fe20;
+}
+.cnt h1::after{
+    content: "";
+    width: 70px;
+    background-color: #03fe20;
+    height: 5px;
+    display: block;
+    margin: 5px auto;
+}
+    
+
+.cnt p{
+    padding: 0px 10px 10px 10px;
+  }
+@media screen and (max-width: 768px){
+    .headab1,.headab2{
+      padding:0px 20px;
+
+    }
+    .headab1 h1,.headab2 h1{
+      font-size: 36px;
+
+  }
+    .headab1 h2,.headab2 h2{
+      font-size: 17px;
+
+    }
+    .about-container
+    {
+      padding: 0px
+    }
+    .ab1,.ab2{
+      padding: 20px;
+      flex-direction: column;
+    
+    }
+    .about1-image,.about2-image{
+      margin-right:0px;
+      margin-bottom: 20px;
+    }
+    .about1-content p,.about2-content p{
+      padding: 0px;
+      font-size: 16px;
+    }
+    .videocontext h1{
+      font-size: 30px;
+    }
+    .videocontext h3{
+      font-size: 16px;
+    }
+
+}
