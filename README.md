@@ -86,6 +86,9 @@ This project was developed solely for college project and educational purposes, 
 ![image](https://github.com/sumukhsankarshana/Resort_Website/assets/115341766/6b4edb18-d1b3-45aa-b83b-3760462f0757)
 
 
+##  Note
+All the images have been removed since they are actual pictured of the real resort and is property of Advaitha Serenity Resorts.
+
 
 
 
